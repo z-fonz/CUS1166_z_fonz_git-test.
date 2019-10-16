@@ -1,4 +1,4 @@
-{% extends "layout.html" %}
+{}% extends "layout.html" %}
 @app.route('/')
 def home():
     return 'Hello!'
